@@ -3,5 +3,9 @@ public class MainClass {
 		System.out.println("Hallooo!?");
 		
 		System.out.println("Zdravoo!?");
+		
+		//Komentar na develop grani
+		String string = "Rad na develop grani";
+		System.out.println(string);
 	}
 }
