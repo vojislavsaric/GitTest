@@ -7,5 +7,8 @@ public class MainClass {
 		//Komentar na develop grani
 		String string = "Rad na develop grani";
 		System.out.println(string);
+		
+		//Korigovan pogresan commit i mozemo nastaviti dalje sa kodovanjem
+		
 	}
 }
