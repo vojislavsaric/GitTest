@@ -9,6 +9,11 @@ public class MainClass {
 		System.out.println(string);
 		
 		//Korigovan pogresan commit i mozemo nastaviti dalje sa kodovanjem
+		novoRazvijenaMetoda();
 		
+	}
+	
+	private static void novoRazvijenaMetoda(){
+		System.out.println("Nesto novo razvijeno na develop grani...");
 	}
 }
