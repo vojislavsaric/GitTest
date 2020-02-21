@@ -3,6 +3,9 @@ public class Klasa2 {
 	int x;
 	double y;
 	
+	public Klasa2() {
+	}
+	
 	public Klasa2(int x, double y) {
 		this.x = x;
 		this.y = y;
