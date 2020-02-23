@@ -26,4 +26,10 @@ public class Klasa2 {
 	public double getY() {
 		return this.y;
 	}
+		
+	@Override
+	public String toString() {
+		return "x= " + this.x + ", y= " + this.y;
+	}
+	
 }
